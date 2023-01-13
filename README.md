@@ -16,14 +16,13 @@
 - 📧 Email: t.denisjd@gmail.com
 - 📱 Telegram: @denis_jd
 
-<!--
 <hr>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenisJD&show_icons=true&theme=tokyonight&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenisJD&show_icons=true&layout=compact&theme=tokyonight)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DenisJD&count_private=true&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DenisJD&count_private=true&theme=tokyonight&show_icons=true)
 
-
+<!--
 **DenisJD/DenisJD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
