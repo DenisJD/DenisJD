@@ -18,9 +18,9 @@
 
 <hr>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenisJD&show_icons=true&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenisJD&theme=tokyonight&show_icons=true&layout=compact)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DenisJD&count_private=true&theme=tokyonight&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DenisJD&count_private=true&show_icons=true&theme=tokyonight)
 
 <!--
 **DenisJD/DenisJD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
