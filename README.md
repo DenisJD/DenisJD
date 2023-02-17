@@ -2,7 +2,7 @@
 <h1><img src="https://media4.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="100"/></h1>
 </div>
 <h3 align="center">Hi, there ~ 
-  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" height="24px" alt="hi"> My name is Den.
+  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" height="24px" alt="hi"> My name is Den. I'm Java Developer
 </h3>
 
 - 👨‍💻 My projects are available [here](https://github.com/DenisJD?tab=repositories).
