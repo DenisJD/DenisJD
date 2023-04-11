@@ -15,9 +15,9 @@
 
 <hr>
 
-![Top Langs](https://github-readme-stats-wine-one-40.vercel.app/api/top-langs/?username=DenisJD&show_icons=true&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-denisjd.vercel.app/api/top-langs/?username=DenisJD&show_icons=true&layout=compact&theme=tokyonight)
 
-![GitHub stats](https://github-readme-stats-wine-one-40.vercel.app/api?username=DenisJD&show_icons=true&count_private=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats-denisjd.vercel.app/api?username=DenisJD&show_icons=true&count_private=true&theme=tokyonight)
 
 <!--
 <h3 align="center">↺ I’m currently studying at Hexlet school and now I'm looking for new career opportunities as a Junior Java Developer.</h3>
