@@ -5,6 +5,7 @@
   <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" height="24px" alt="hi"> My name is Den. I'm Java Developer
 </h3>
 
+- 🔭 Open to work, remote or Moscow.
 - 👨‍💻 My projects are available [here](https://github.com/DenisJD?tab=repositories).
 - 🎓 Visit my Hexlet [profile](https://ru.hexlet.io/u/denisjd).
 
