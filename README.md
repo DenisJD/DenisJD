@@ -18,7 +18,7 @@
 
 <hr>
 
-**Favorite Tech Stack:**  
+<h3> 💫 Favorite Tech Stack 💫 </h3>
 <code><img height="35" title="Java" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"></code>
 <code><img height="35" title="Kotlin" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/refs/heads/master/programming%20languages/kotlin.svg"></code>
 <code><img height="35" title="Spring" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/spring.svg"></code> 
